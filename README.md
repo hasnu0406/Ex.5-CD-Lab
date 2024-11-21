@@ -1,6 +1,6 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date:05-11-2024
+# Date:19.10.24
 # NAME: HASNA MUBARAK AZEEM
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
